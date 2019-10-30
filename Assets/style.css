@@ -1,0 +1,19 @@
+html, body, .container-fluid {
+    background-color: #f8f9fa;
+    height: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: #f8f9fa;
+}
+
+.sidebar {
+    background-color: darkslategrey;
+    color: #f8f9fa;
+}
+
+i {
+    position: relative;
+        top: 4px;
+} 
