@@ -1,5 +1,7 @@
 # [Weather-Report](https://lbernadel.github.io/Weather-Report/)
 
+![Screenshot of Weather Report Dashboard](./Assets/Images/weather-dash_screenshot.JPG)
+
 ## Description
 
 This goal of this assignment was to utilize OpenWeather APIs to make an application that displays current weather information (in Imperial Units) for the city that a user inputs. The current weather information displayed includes the following at the minimum:
@@ -10,7 +12,7 @@ This goal of this assignment was to utilize OpenWeather APIs to make an applicat
 * Humidity
 * Wind Speed
 
-The weather data for a city is displayed on the screen, below any existing search results.
+The weather data for a city is displayed on the dashboard, below any existing search results.
 
 For further challenge, we could display this information in addition:
 * UV Index
